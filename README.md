@@ -1,1 +1,1 @@
-**Estudos realizados durante a disciplina de Inteligência Computacional (Em andamento)**
+**Estudos realizados durante a disciplina de Inteligência Computacional baseado no livro: An Introduction to Statistical Learning with applications in Python**
