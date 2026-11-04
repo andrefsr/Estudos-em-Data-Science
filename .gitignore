@@ -1,2 +1,4 @@
 *.pdf
 /Datasets
+*.pkl
+/10 - Deep Learning/mnist dataset
